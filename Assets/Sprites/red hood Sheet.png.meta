@@ -1,0 +1,2930 @@
+fileFormatVersion: 2
+guid: a9f43e1cf4184f74288780c5d3d4fc89
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red hood Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8806f859396e36842857c4a95314837f
+      internalID: -1785288532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f563c9eba469f0a4eb80e692c93a80d1
+      internalID: -256520157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e722f4583b1c42742b5e6a0749d91a4c
+      internalID: -651171181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d0f04148f50b94e8a699ac74e2a409
+      internalID: 748669814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5cd7547bd0714499108022afdff93
+      internalID: 1179071667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96335305742f88d42a9c70dce773a4f4
+      internalID: 1121581398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab05c43373ba9f43aae0c36c39819ff
+      internalID: 331095433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe323b09f1613d4a8770cad55d5bd10
+      internalID: 1562419920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dae60418f7fbe49ae8b3738dabc96e
+      internalID: 783934422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a622e6e7471276449ec15e9aac3a907
+      internalID: -552842862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6226c6cee5153c4ca8ce6b845fcd81b
+      internalID: -1903269505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1363
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ceafca1f1534645af9b8f70bff4c92
+      internalID: -193089784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e960ba980e5743914bcde9c22d6b7
+      internalID: 1731091026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bfe1769c8670e4d995ca442aa38f29
+      internalID: -1572247331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925cca3a9d47ea441bd131a16ddb58dc
+      internalID: 299098335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11106951b0c7c4c89d8f469f0df535
+      internalID: 783219844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0374e06cdbe9eb944b4caca3008c1cfb
+      internalID: -179953607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505de77c17cc3f741b36f4016b1e5fb4
+      internalID: -252932485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f1ac62139b2cc45bb75381f187bd0d
+      internalID: 680555237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cdcc1a0ee13f34bad300d4aacad1c7
+      internalID: 987983410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116aa21dd92448c45bb328abdf3e4167
+      internalID: 525543052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be756de52b881b4fba4dd100ae0c9a6
+      internalID: 2045492307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cb610d711e28d4aad22c025e029335
+      internalID: -1468118483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1230
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fb7c8c15518054489344aed915dd3d
+      internalID: -1191707725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7ea5ef021e42a4abb6da7dfef5120e
+      internalID: 598917984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460482d6e61e2ad42a368832b9129d40
+      internalID: 323033803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462dc27221df19a4c8d57a43125dbf21
+      internalID: 1099886075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0028fb34ac0917b4d95a4a0d3ac87b95
+      internalID: 1788826480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f8e1009c8fd44e90fe830f9e2a658
+      internalID: 1205430715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e86780b11986c4588fe651b1155934
+      internalID: 332024683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2367c0d60359b594b957c76a472a9a8c
+      internalID: -174177759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb5bd4b18f68d647b9f6ae4a3a396ac
+      internalID: -1909383861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27395da3795cd42ae47b08bbf1ebed
+      internalID: 1673062152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b6dccfee528be4b98013463837e708
+      internalID: 1420119270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dde677b2897d4a42aaa3ba986a6a21b
+      internalID: 1724469709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1097
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d8ee78337a6da4cb775f7bc8db2304
+      internalID: -437515632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8543e802f70464d8b6ca199f87ab7f
+      internalID: -1116558757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a2b50572cb7db438f5514d751cfa1e
+      internalID: -753429113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd49ea9e4a025498920ef3e7788566
+      internalID: 1255646418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fcb6c22fabaf84d97a42c54d3996cd
+      internalID: 1976434754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01b849eb9990704caceeb5c172bf7a2
+      internalID: -1405280518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171c09f75e686a4e9ad07c53f6d94f2
+      internalID: 1873464020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf033363b50a774ab226d3a056da00b
+      internalID: 1571653758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27e28656b00546468a96d7e47437e3b
+      internalID: -1321094182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419a5dfc632bcd4a842025e18509cfa
+      internalID: -1973250125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa064b6be8f7f4da891a8fc0a52416
+      internalID: 9617252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07e541c68011e8488805cb7737ceb65
+      internalID: -685897384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 964
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dff756f3d00004aa6c6c0e6e883c3d
+      internalID: 1440129558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c47898ddc80bc4580082bf6b931d46
+      internalID: -1035693471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e47a9a4354bfd40b3770e3ba84850a
+      internalID: 526961307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0ccfe8942fb8742b71bb46493ef46e
+      internalID: -941407096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6483f522dbdf7a48887f6957a36f7b7
+      internalID: 639521643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b514de49408bb42ae60f3be90eab07
+      internalID: -243006001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36429b023de98e145b5b15251934604d
+      internalID: -1914162644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b06b64828b9ae4abcfdd89ffb53962
+      internalID: 1376622694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85916d4cac626bc4e8fd0c8a0b1851bb
+      internalID: 1714321668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556c207167ff2b64099a8d746d28dc15
+      internalID: -258531271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e763d5d02d2e3b64ca18f2fe63c93f50
+      internalID: 2065725918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc19659b75f45a46b42b98dc2037043
+      internalID: 924173571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 831
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5239b1c2e87ac149a9e0ff46bdeb148
+      internalID: 694567279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde1ff006ac1e3c45a162b83ca53ea9b
+      internalID: -147868564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeeef0d4a991d54abbbcbd10de5183d
+      internalID: -1570717432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d48b075cd34144941d7551815dc6d
+      internalID: -1872326015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dba825da91be648853a6a4f6a11e49
+      internalID: -2076018136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dd63c48b65fed448dd11d2590c6446
+      internalID: -667064081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec4c6b92d498dc4ab3a629e18b1d234
+      internalID: -1656801161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a0e795d6498c4f9a24dedb3b5f692
+      internalID: -1206878918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12cc0ed3dc4d5a498d7cb4cb24509a6
+      internalID: 1968291002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ca08d6754ce049ae5667414c0483a
+      internalID: 127464024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07910bfd100464d920b6f5d50c633e
+      internalID: -1060913797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092f5dd1aa17c9f41bd99e15f19de06f
+      internalID: 104590264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 698
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bdaa788cdca574ebdaf2bbb0c80497
+      internalID: 1053536606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1fc79cf778dc24aa160c71a726fd77
+      internalID: -82760035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e7d1054375d04aa775a555874ebab
+      internalID: -1584612765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d14e5e32b87954cb76b34c30470585
+      internalID: -191252984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7639eaa2ca19545a97938e18cb753e
+      internalID: 211722868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0f7c856b1a0564290831cd7d7ad4dc
+      internalID: -37437959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26366a8ed2c496f4989cbae46fa04e31
+      internalID: -1588457844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788317f29910e14fbc35b9a725f5984
+      internalID: 1944318349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031316fa0ea90a84db042277712eb00d
+      internalID: -612530786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa42681df7b299e4599138219285a997
+      internalID: 1454119948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f3389fa15bda740950943c900660bd
+      internalID: 1942090905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be68f2e20e91dc41b040bf0019b57f4
+      internalID: 701974290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 565
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0f48ddc69b684c8d88e4c10ce2602
+      internalID: 1078047834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76c769b9b1a80a49a300dd196f3d32f
+      internalID: -826535033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749bda426d9a8bb47a94f7cd95ca160a
+      internalID: 949045935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e4b2aa182ffa449b75352dd5e92cf
+      internalID: 644726297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcef7836d2b46e40a337f0b31be76b4
+      internalID: -1096654196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f650763e2f1554bb5dbc40d2b145d2
+      internalID: 1967237547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0ad076cedfcc9439c6900bf60d4b8c
+      internalID: 1452034589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67e2d9484e5bb4d9bfc7d1879d4a2d
+      internalID: -1847357740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e45da1df7d24ce44849933aa04bf4db
+      internalID: 1151989072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4751936a3f0c3a840b8dee2e9e12f8e9
+      internalID: 116477238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c0565a16bd66642afb8bb4506b9f4e
+      internalID: 1035109197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6392488f7ba86439b7a46e696a2fe4
+      internalID: -1708194291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 432
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031bde64deb77024197cbd5d2292e260
+      internalID: -607938838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929734e2f7da25f4690ebe4e0fb907c2
+      internalID: -292930284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d657573841644cae2063893a6ebee
+      internalID: 137724358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302041698aca4f48865657fe643b585
+      internalID: -1178288060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8b15a7e8809274c9a28bbf73265ba1
+      internalID: -108420928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa8808a687e654ca70cbe1f68ea7b5
+      internalID: 332574589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ce3ffd4794b6c41bb17bb3058c33d0
+      internalID: 2732905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a15ef4d817dc224ab8bf56116c8fed7
+      internalID: -1403664786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add83edd6d552304e8abc185f0a193e5
+      internalID: -1032394179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c13d46d1a8126418642cb8dab48148
+      internalID: -1041295095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f44bd2d3f9d634e962ad599da73b45
+      internalID: -1686041206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398ac9c961e475479acc8caf2df6d21
+      internalID: -2006980520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 299
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeaa0cfa262cdf46a53f6f36028bf9a
+      internalID: 530138877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe01a716208c494685fb1c34d4fb060
+      internalID: -1844496411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9b6a47fd7ef314389d3af33dd2c167
+      internalID: 855637037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264345cecac19524e9a840e97768d2ab
+      internalID: 1753066935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8288863e727cd174ba056a8ebb3fb89f
+      internalID: -984751341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff3a77b7a896894aa9dbb50e1a6aa33
+      internalID: -438271806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96bc68d2021af4b8904b2f00c66cb6
+      internalID: 1936005412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7294fbde4f0194bac0a2951fc15727
+      internalID: -1375637348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801122e7db05bf498c02bd43ed6691e
+      internalID: -1284053487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb406d1f5533f1459d309b0ac60e770
+      internalID: 140826293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d0032f735d54a4795346efce7ba8e1
+      internalID: 1902872756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6f16bc1a1df2547af24ccdcfba15a1
+      internalID: -694020246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 166
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6028f4860e27e08479abb1463b675d3f
+      internalID: -1001995650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 33
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959648d0214ae2544b3e1ffadb4f87cc
+      internalID: 1595918766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 33
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093dec40ac9845243ad97cef4d7afb66
+      internalID: -15876887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 33
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d639fb5980162438acf828f1a2065a
+      internalID: 601102357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 33
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50d453a11197fd4c98393f5ad8b0187
+      internalID: -1762750728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 33
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3931c3367633704094f6be9e7ed628b
+      internalID: 987111422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 33
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a11f905fd3734a828fcd8b11d038e
+      internalID: 69069104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red hood Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 33
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41f833e40736554fb719d64efcec709
+      internalID: 2055154126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      red hood Sheet_126: 2055154126
+      red hood Sheet_22: -1468118483
+      red hood Sheet_103: -1032394179
+      red hood Sheet_7: 1562419920
+      red hood Sheet_95: -607938838
+      red hood Sheet_109: 855637037
+      red hood Sheet_94: -1708194291
+      red hood Sheet_68: 127464024
+      red hood Sheet_122: 601102357
+      red hood Sheet_88: 1967237547
+      red hood Sheet_35: -437515632
+      red hood Sheet_108: -1844496411
+      red hood Sheet_89: 1452034589
+      red hood Sheet_76: -37437959
+      red hood Sheet_97: 137724358
+      red hood Sheet_44: -1973250125
+      red hood Sheet_90: -1847357740
+      red hood Sheet_21: 2045492307
+      red hood Sheet_118: -694020246
+      red hood Sheet_16: -179953607
+      red hood Sheet_64: -667064081
+      red hood Sheet_101: 2732905
+      red hood Sheet_54: 1376622694
+      red hood Sheet_4: 1179071667
+      red hood Sheet_114: -1375637348
+      red hood Sheet_13: -1572247331
+      red hood Sheet_48: -1035693471
+      red hood Sheet_81: 1942090905
+      red hood Sheet_62: -1872326015
+      red hood Sheet_8: 783934422
+      red hood Sheet_74: -191252984
+      red hood Sheet_17: -252932485
+      red hood Sheet_82: 701974290
+      red hood Sheet_20: 525543052
+      red hood Sheet_19: 987983410
+      red hood Sheet_34: 1724469709
+      red hood Sheet_47: 1440129558
+      red hood Sheet_77: -1588457844
+      red hood Sheet_119: -1001995650
+      red hood Sheet_0: -1785288532
+      red hood Sheet_18: 680555237
+      red hood Sheet_86: 644726297
+      red hood Sheet_100: 332574589
+      red hood Sheet_38: 1255646418
+      red hood Sheet_85: 949045935
+      red hood Sheet_28: 1205430715
+      red hood Sheet_42: 1571653758
+      red hood Sheet_65: -1656801161
+      red hood Sheet_2: -651171181
+      red hood Sheet_33: 1420119270
+      red hood Sheet_52: -243006001
+      red hood Sheet_53: -1914162644
+      red hood Sheet_78: 1944318349
+      red hood Sheet_117: 1902872756
+      red hood Sheet_71: 1053536606
+      red hood Sheet_39: 1976434754
+      red hood Sheet_37: -753429113
+      red hood Sheet_80: 1454119948
+      red hood Sheet_72: -82760035
+      red hood Sheet_115: -1284053487
+      red hood Sheet_96: -292930284
+      red hood Sheet_127: -537310369
+      red hood Sheet_123: -1762750728
+      red hood Sheet_51: 639521643
+      red hood Sheet_46: -685897384
+      red hood Sheet_40: -1405280518
+      red hood Sheet_24: 598917984
+      red hood Sheet_121: -15876887
+      red hood Sheet_63: -2076018136
+      red hood Sheet_45: 9617252
+      red hood Sheet_67: 1968291002
+      red hood Sheet_41: 1873464020
+      red hood Sheet_112: -438271806
+      red hood Sheet_75: 211722868
+      red hood Sheet_29: 332024683
+      red hood Sheet_32: 1673062152
+      red hood Sheet_69: -1060913797
+      red hood Sheet_99: -108420928
+      red hood Sheet_1: -256520157
+      red hood Sheet_113: 1936005412
+      red hood Sheet_49: 526961307
+      red hood Sheet_84: -826535033
+      red hood Sheet_66: -1206878918
+      red hood Sheet_83: 1078047834
+      red hood Sheet_43: -1321094182
+      red hood Sheet_110: 1753066935
+      red hood Sheet_57: 2065725918
+      red hood Sheet_60: -147868564
+      red hood Sheet_61: -1570717432
+      red hood Sheet_50: -941407096
+      red hood Sheet_58: 924173571
+      red hood Sheet_10: -1903269505
+      red hood Sheet_98: -1178288060
+      red hood Sheet_91: 1151989072
+      red hood Sheet_70: 104590264
+      red hood Sheet_125: 69069104
+      red hood Sheet_3: 748669814
+      red hood Sheet_36: -1116558757
+      red hood Sheet_79: -612530786
+      red hood Sheet_6: 331095433
+      red hood Sheet_102: -1403664786
+      red hood Sheet_30: -174177759
+      red hood Sheet_11: -193089784
+      red hood Sheet_12: 1731091026
+      red hood Sheet_87: -1096654196
+      red hood Sheet_104: -1041295095
+      red hood Sheet_93: 1035109197
+      red hood Sheet_55: 1714321668
+      red hood Sheet_23: -1191707725
+      red hood Sheet_120: 1595918766
+      red hood Sheet_26: 1099886075
+      red hood Sheet_111: -984751341
+      red hood Sheet_105: -1686041206
+      red hood Sheet_116: 140826293
+      red hood Sheet_25: 323033803
+      red hood Sheet_92: 116477238
+      red hood Sheet_124: 987111422
+      red hood Sheet_73: -1584612765
+      red hood Sheet_106: -2006980520
+      red hood Sheet_5: 1121581398
+      red hood Sheet_15: 783219844
+      red hood Sheet_31: -1909383861
+      red hood Sheet_59: 694567279
+      red hood Sheet_14: 299098335
+      red hood Sheet_56: -258531271
+      red hood Sheet_9: -552842862
+      red hood Sheet_27: 1788826480
+      red hood Sheet_107: 530138877
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
